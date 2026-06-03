@@ -5,6 +5,6 @@ table below that is filled with Pros And Cons of Vyond Remastered.
 |     Pros     |     Cons     |
 | -------------------------- | ------------------- |
 | Folder creation for Props  | No Video Importing (By Request Of David) |
-| LVMS Ranging from 2015 to 2018  | No Exporting (By Request Of David) |
+| LVMS Ranging from 2015 to 2018  | Video Export (MP4, WebM, MOV support) |
 | Option To Use The Original Vyond Import Sidebar | No Update Checker For V:R (It's Coming Soon Though) |
 | Slide Effect On Vyond Remastered's Import Sidebar | No Support For Mac (It's Coming Soon Though) |

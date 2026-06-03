@@ -37,6 +37,8 @@ const mvr = require("./movie/redirect");
 const mvL = require("./movie/list");
 const mvm = require("./movie/meta");
 const mvs = require("./movie/save");
+const mve = require("./movie/export");
+const mves = require("./movie/exportStatus");
 const mvt = require("./movie/thmb");
 const mvu = require("./movie/delete");
 const thl = require("./theme/load");
@@ -50,7 +52,7 @@ const wal = require("./watermark/list");
 const wAl = require("./waveform/load");
 const wAs = require("./waveform/save");
 
-const functions = [asT, fdr, WaL, ass, asd, asa, asl, asL, mvr, asm, ast, chr, dbs, pmc, chl, chs, chu, sts, Stl, Stp, mvl, mvL, mvm, mvs, mvt, mvu, thl, thL, tsv, tsl, waa, Waa, wal, wAl, wAs];
+const functions = [asT, fdr, WaL, ass, asd, asa, asl, asL, mvr, asm, ast, chr, dbs, pmc, chl, chs, chu, sts, Stl, Stp, mvl, mvL, mvm, mvs, mve, mves, mvt, mvu, thl, thL, tsv, tsl, waa, Waa, wal, wAl, wAs];
 
 /**
  * create the server
